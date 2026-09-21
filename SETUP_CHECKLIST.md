@@ -6,7 +6,7 @@
 - [ ] Discord-webhook in het juiste leaderboard-kanaal aangemaakt.
 - [ ] GitHub Secret `TOP_GAMES_TOKEN` toegevoegd.
 - [ ] GitHub Secret `DISCORD_WEBHOOK_URL` toegevoegd.
-- [ ] Optioneel Repository Variable `LEADERBOARD_LIMIT` ingesteld (1–50).
+- [ ] Optioneel Repository Variable `LEADERBOARD_PAGE_SIZE` ingesteld (5–40; standaard 20).
 - [ ] GitHub Actions heeft **Read and write permissions**.
 - [ ] Actions → Update Vote Leaderboards → Run workflow uitgevoerd.
 - [ ] Current Month-board verschijnt in Discord.

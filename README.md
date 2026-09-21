@@ -14,7 +14,8 @@ Het project draait ieder uur via **GitHub Actions**. Je hebt dus geen VPS, betaa
 - Bewaart de laatste volledige snapshot in `data/state.json`.
 - Archiveert de eindstand bij een maandwissel in `data/history/YYYY-MM.json`.
 - Maakt een verwijderd leaderboardbericht automatisch opnieuw aan.
-- Ondersteunt maximaal 50 zichtbare voters.
+- Toont automatisch **alle voters** op opeenvolgende Discord-pagina's.
+- Maakt standaard een nieuwe pagina per 20 voters en verwijdert overbodige pagina's automatisch.
 - Bevat bewust nog geen in-game rewards.
 
 ## Gebruikte Top-Games API
@@ -82,9 +83,9 @@ Maak exact deze twee Repository Secrets:
 
 Je hoeft geen Discord bot, bot-token, channel-ID of message-ID aan te maken.
 
-### 4. Stel optioneel het aantal spelers in
+### 4. Stel optioneel de paginagrootte in
 
-Standaard toont elk board maximaal 20 spelers. Voor een andere limiet ga je naar:
+Standaard toont ieder Discord-bericht 20 spelers. Als er meer voters zijn, maakt de workflow automatisch extra pagina's. Voor een andere paginagrootte ga je naar:
 
 ```text
 Settings → Secrets and variables → Actions → Variables
@@ -93,10 +94,10 @@ Settings → Secrets and variables → Actions → Variables
 Maak de Repository Variable:
 
 ```text
-LEADERBOARD_LIMIT
+LEADERBOARD_PAGE_SIZE
 ```
 
-Gebruik een waarde van 1 t/m 50.
+Gebruik een waarde van 5 t/m 40. Deze instelling beperkt nooit het totale aantal voters; hij bepaalt alleen hoeveel voters er per pagina verschijnen.
 
 ### 5. Geef GitHub Actions schrijfrechten
 
@@ -143,7 +144,7 @@ Current Month • September 2026
 🔄 Updated automatically every hour
 ```
 
-Het tweede bericht toont de definitieve vorige maand. Voor de eerste maandwissel meldt het dat er nog geen archief beschikbaar is.
+De volgende berichten tonen automatisch de overige pagina's. Het Previous Month-board gebruikt dezelfde paginering. Voor de eerste maandwissel meldt het dat er nog geen archief beschikbaar is.
 
 ## Data en maandwissel
 
@@ -151,7 +152,7 @@ Het tweede bericht toont de definitieve vorige maand. Voor de eerste maandwissel
 
 - de actieve maand;
 - de laatste volledige ranking;
-- de twee Discord message-ID's;
+- alle Discord message-ID's voor de huidige en vorige maand;
 - het tijdstip van de laatste succesvolle update.
 
 Bij de eerste run in een nieuwe maand wordt de laatst bewaarde snapshot van de oude maand eerst opgeslagen als:

@@ -67,6 +67,8 @@ def default_state() -> dict[str, Any]:
     return {
         "current_month": None,
         "current_snapshot": [],
+        "current_message_ids": [],
+        "previous_message_ids": [],
         "current_message_id": None,
         "previous_message_id": None,
         "last_updated": None,
@@ -260,6 +262,15 @@ def edit_message(webhook_url: str, message_id: str, embed: dict[str, Any]) -> No
     )
 
 
+def delete_message(webhook_url: str, message_id: str) -> None:
+    webhook_request(
+        "DELETE",
+        webhook_url_for(webhook_url, message_id=message_id),
+        payload={},
+        expected=(204,),
+    )
+
+
 def medals(position: int) -> str:
     return {1: "🥇", 2: "🥈", 3: "🥉"}.get(position, f"**{position}.**")
 
@@ -295,28 +306,46 @@ def fit_description(lines: list[str], footer_lines: list[str]) -> str:
     return "\n".join(chosen) + suffix
 
 
-def build_current_embed(players: list[Player], current_month: str, updated: datetime, limit: int) -> dict[str, Any]:
+def player_pages(players: list[Player], page_size: int) -> list[list[Player]]:
+    if not players:
+        return [[]]
+    return [players[index:index + page_size] for index in range(0, len(players), page_size)]
+
+
+def build_current_embeds(
+    players: list[Player], current_month: str, updated: datetime, page_size: int
+) -> list[dict[str, Any]]:
     total_votes = sum(player.votes for player in players)
-    shown = min(len(players), limit)
-    footer_lines = [
-        f"🗳️ **Total votes:** {total_votes}",
-        f"👥 **Showing:** {shown} voter{'s' if shown != 1 else ''}",
-        "🔄 Updated automatically every hour",
-        f"🕒 Last update: {updated.strftime('%d-%m-%Y %H:%M')} Europe/Amsterdam",
-    ]
-    return {
-        "title": "🗳️ BromanZ Vote Leaderboard",
-        "description": fit_description(ranking_lines(players, limit), footer_lines),
-        "color": EMBED_COLOR_CURRENT,
-        "author": {"name": f"Current Month • {month_title(current_month)}"},
-        "footer": {"text": "BromanZ Community • Loot • Explore • Survive"},
-        "timestamp": updated.isoformat(),
-    }
+    pages = player_pages(players, page_size)
+    embeds: list[dict[str, Any]] = []
+    for page_number, page in enumerate(pages, start=1):
+        footer_lines = [
+            f"🗳️ **Total votes:** {total_votes}",
+            f"👥 **All voters:** {len(players)}",
+            "🔄 Updated automatically every hour",
+            f"🕒 Last update: {updated.strftime('%d-%m-%Y %H:%M')} Europe/Amsterdam",
+        ]
+        embeds.append({
+            "title": "🗳️ BromanZ Vote Leaderboard",
+            "description": fit_description(ranking_lines(page, page_size), footer_lines),
+            "color": EMBED_COLOR_CURRENT,
+            "author": {
+                "name": (
+                    f"Current Month • {month_title(current_month)} • "
+                    f"Page {page_number}/{len(pages)}"
+                )
+            },
+            "footer": {"text": "BromanZ Community • Loot • Explore • Survive"},
+            "timestamp": updated.isoformat(),
+        })
+    return embeds
 
 
-def build_previous_embed(players: list[Player] | None, previous_month: str, limit: int) -> dict[str, Any]:
+def build_previous_embeds(
+    players: list[Player] | None, previous_month: str, page_size: int
+) -> list[dict[str, Any]]:
     if players is None:
-        return {
+        return [{
             "title": "🏆 BromanZ Previous Vote Leaderboard",
             "description": (
                 f"No archived ranking is available for {month_title(previous_month)} yet.\n\n"
@@ -324,21 +353,31 @@ def build_previous_embed(players: list[Player] | None, previous_month: str, limi
             ),
             "color": EMBED_COLOR_PREVIOUS,
             "footer": {"text": "Final monthly standings are kept for in-game rewards."},
-        }
+        }]
 
     total_votes = sum(player.votes for player in players)
-    footer_lines = [
-        f"🗳️ **Final total votes:** {total_votes}",
-        "🔒 **Final ranking — archived**",
-        "🎮 Rewards are handled in-game by the BromanZ staff.",
-    ]
-    return {
-        "title": "🏆 BromanZ Previous Vote Leaderboard",
-        "description": fit_description(ranking_lines(players, limit), footer_lines),
-        "color": EMBED_COLOR_PREVIOUS,
-        "author": {"name": f"Final Results • {month_title(previous_month)}"},
-        "footer": {"text": "BromanZ Community • Archived monthly ranking"},
-    }
+    pages = player_pages(players, page_size)
+    embeds: list[dict[str, Any]] = []
+    for page_number, page in enumerate(pages, start=1):
+        footer_lines = [
+            f"🗳️ **Final total votes:** {total_votes}",
+            f"👥 **All voters:** {len(players)}",
+            "🔒 **Final ranking — archived**",
+            "🎮 Rewards are handled in-game by the BromanZ staff.",
+        ]
+        embeds.append({
+            "title": "🏆 BromanZ Previous Vote Leaderboard",
+            "description": fit_description(ranking_lines(page, page_size), footer_lines),
+            "color": EMBED_COLOR_PREVIOUS,
+            "author": {
+                "name": (
+                    f"Final Results • {month_title(previous_month)} • "
+                    f"Page {page_number}/{len(pages)}"
+                )
+            },
+            "footer": {"text": "BromanZ Community • Archived monthly ranking"},
+        })
+    return embeds
 
 
 def archive_snapshot(month: str, snapshot: list[dict[str, Any]], archived_at: datetime) -> Path:
@@ -366,35 +405,53 @@ def load_archive(month: str) -> list[Player] | None:
     return [Player.from_dict(player) for player in data.get("players", []) if isinstance(player, dict)]
 
 
-def upsert_message(
+def sync_message_pages(
     state: dict[str, Any],
     state_key: str,
+    legacy_state_key: str,
     webhook_url: str,
-    embed: dict[str, Any],
+    embeds: list[dict[str, Any]],
 ) -> None:
-    message_id = state.get(state_key)
-    if message_id:
+    message_ids = [str(value) for value in state.get(state_key, []) if value]
+    legacy_message_id = state.get(legacy_state_key)
+    if not message_ids and legacy_message_id:
+        message_ids = [str(legacy_message_id)]
+
+    active_ids: list[str] = []
+    for index, embed in enumerate(embeds):
+        message_id = message_ids[index] if index < len(message_ids) else None
+        if message_id:
+            try:
+                edit_message(webhook_url, message_id, embed)
+                active_ids.append(message_id)
+                continue
+            except DiscordWebhookError as exc:
+                if exc.status_code != 404:
+                    raise
+                print(f"Stored Discord message {message_id} no longer exists; creating a replacement.")
+        active_ids.append(create_message(webhook_url, embed))
+
+    for message_id in message_ids[len(embeds):]:
         try:
-            edit_message(webhook_url, str(message_id), embed)
-            return
+            delete_message(webhook_url, message_id)
         except DiscordWebhookError as exc:
             if exc.status_code != 404:
                 raise
-            print(f"Stored Discord message {message_id} no longer exists; creating a replacement.")
 
-    state[state_key] = create_message(webhook_url, embed)
+    state[state_key] = active_ids
+    state[legacy_state_key] = active_ids[0] if active_ids else None
     save_state(state)
-    print(f"Created Discord message for {state_key}: {state[state_key]}")
+    print(f"Synchronized {len(active_ids)} Discord page(s) for {state_key}.")
 
 
 def run() -> None:
     top_games_token = env("TOP_GAMES_TOKEN")
     discord_webhook_url = validate_webhook_url(env("DISCORD_WEBHOOK_URL"))
     try:
-        leaderboard_limit = int(env("LEADERBOARD_LIMIT", required=False, default="20"))
+        leaderboard_page_size = int(env("LEADERBOARD_PAGE_SIZE", required=False, default="20"))
     except ValueError as exc:
-        raise LeaderboardError("LEADERBOARD_LIMIT must be a number.") from exc
-    leaderboard_limit = max(1, min(leaderboard_limit, 50))
+        raise LeaderboardError("LEADERBOARD_PAGE_SIZE must be a number.") from exc
+    leaderboard_page_size = max(5, min(leaderboard_page_size, 40))
 
     now = datetime.now(TIMEZONE)
     this_month = month_key(now)
@@ -411,11 +468,15 @@ def run() -> None:
     print(f"Fetched {len(players)} voters from Top-Games.")
 
     previous_players = load_archive(previous_month)
-    current_embed = build_current_embed(players, this_month, now, leaderboard_limit)
-    previous_embed = build_previous_embed(previous_players, previous_month, leaderboard_limit)
+    current_embeds = build_current_embeds(players, this_month, now, leaderboard_page_size)
+    previous_embeds = build_previous_embeds(previous_players, previous_month, leaderboard_page_size)
 
-    upsert_message(state, "current_message_id", discord_webhook_url, current_embed)
-    upsert_message(state, "previous_message_id", discord_webhook_url, previous_embed)
+    sync_message_pages(
+        state, "current_message_ids", "current_message_id", discord_webhook_url, current_embeds
+    )
+    sync_message_pages(
+        state, "previous_message_ids", "previous_message_id", discord_webhook_url, previous_embeds
+    )
 
     state["current_month"] = this_month
     state["current_snapshot"] = [player.to_dict() for player in players]
