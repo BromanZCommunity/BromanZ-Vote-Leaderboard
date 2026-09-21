@@ -448,10 +448,10 @@ def run() -> None:
     top_games_token = env("TOP_GAMES_TOKEN")
     discord_webhook_url = validate_webhook_url(env("DISCORD_WEBHOOK_URL"))
     try:
-        leaderboard_page_size = int(env("LEADERBOARD_PAGE_SIZE", required=False, default="20"))
+        leaderboard_page_size = int(env("LEADERBOARD_PAGE_SIZE", required=False, default="50"))
     except ValueError as exc:
         raise LeaderboardError("LEADERBOARD_PAGE_SIZE must be a number.") from exc
-    leaderboard_page_size = max(5, min(leaderboard_page_size, 40))
+    leaderboard_page_size = max(5, min(leaderboard_page_size, 50))
 
     now = datetime.now(TIMEZONE)
     this_month = month_key(now)
