@@ -1,7 +1,178 @@
 {
-  "current_month": null,
-  "current_snapshot": [],
-  "current_message_id": null,
-  "previous_message_id": null,
-  "last_updated": null
+  "current_month": "2026-09",
+  "current_snapshot": [
+    {
+      "playername": "Forest",
+      "votes": 75,
+      "position": 1
+    },
+    {
+      "playername": "TigarCRO",
+      "votes": 63,
+      "position": 2
+    },
+    {
+      "playername": "Geer2",
+      "votes": 48,
+      "position": 3
+    },
+    {
+      "playername": "GoDZilla",
+      "votes": 20,
+      "position": 4
+    },
+    {
+      "playername": "geer",
+      "votes": 11,
+      "position": 5
+    },
+    {
+      "playername": "Misoo",
+      "votes": 10,
+      "position": 6
+    },
+    {
+      "playername": "Luci",
+      "votes": 9,
+      "position": 7
+    },
+    {
+      "playername": "Madviking",
+      "votes": 6,
+      "position": 8
+    },
+    {
+      "playername": "Peridus",
+      "votes": 6,
+      "position": 9
+    },
+    {
+      "playername": "SLAYER (Turbo)",
+      "votes": 6,
+      "position": 10
+    },
+    {
+      "playername": "Luke",
+      "votes": 4,
+      "position": 11
+    },
+    {
+      "playername": "MilchTanne",
+      "votes": 4,
+      "position": 12
+    },
+    {
+      "playername": "Gurke",
+      "votes": 3,
+      "position": 13
+    },
+    {
+      "playername": "Loki",
+      "votes": 3,
+      "position": 14
+    },
+    {
+      "playername": "Manch",
+      "votes": 3,
+      "position": 15
+    },
+    {
+      "playername": "MOMA",
+      "votes": 3,
+      "position": 16
+    },
+    {
+      "playername": "sleone",
+      "votes": 3,
+      "position": 17
+    },
+    {
+      "playername": "Epic",
+      "votes": 2,
+      "position": 18
+    },
+    {
+      "playername": "LoVeScOut24De",
+      "votes": 2,
+      "position": 19
+    },
+    {
+      "playername": "NagatoBrasco",
+      "votes": 2,
+      "position": 20
+    },
+    {
+      "playername": "stug",
+      "votes": 2,
+      "position": 21
+    },
+    {
+      "playername": "t",
+      "votes": 2,
+      "position": 22
+    },
+    {
+      "playername": "Weeddocter",
+      "votes": 2,
+      "position": 23
+    },
+    {
+      "playername": "Brina",
+      "votes": 1,
+      "position": 24
+    },
+    {
+      "playername": "DeadPooL",
+      "votes": 1,
+      "position": 25
+    },
+    {
+      "playername": "Im not geer",
+      "votes": 1,
+      "position": 26
+    },
+    {
+      "playername": "lucian",
+      "votes": 1,
+      "position": 27
+    },
+    {
+      "playername": "LuciTheBest",
+      "votes": 1,
+      "position": 28
+    },
+    {
+      "playername": "Luckner",
+      "votes": 1,
+      "position": 29
+    },
+    {
+      "playername": "Mad_Fox",
+      "votes": 1,
+      "position": 30
+    },
+    {
+      "playername": "MineTreas",
+      "votes": 1,
+      "position": 31
+    },
+    {
+      "playername": "Rexiper",
+      "votes": 1,
+      "position": 32
+    },
+    {
+      "playername": "Sucka4Pain",
+      "votes": 1,
+      "position": 33
+    },
+    {
+      "playername": "TigarCRO",
+      "votes": 1,
+      "position": 34
+    }
+  ],
+  "current_message_id": "1551695390657749144",
+  "previous_message_id": "1551695394386354259",
+  "last_updated": "2026-09-21T22:43:29.659097+02:00"
 }
