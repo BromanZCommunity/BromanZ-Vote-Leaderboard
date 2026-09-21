@@ -3,10 +3,9 @@ name: Update Vote Leaderboards
 on:
   workflow_dispatch:
   schedule:
+    # Run once every hour. GitHub Actions cron schedules always use UTC.
+    # Minute 7 avoids the busiest exact-hour scheduling window.
     - cron: '7 * * * *'
-      timezone: 'Europe/Amsterdam'
-    - cron: '57 23 * * *'
-      timezone: 'Europe/Amsterdam'
 
 permissions:
   contents: write
