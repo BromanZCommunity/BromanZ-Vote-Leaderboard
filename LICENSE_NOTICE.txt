@@ -1,0 +1,5 @@
+BromanZ Vote Leaderboard
+Prepared for the BromanZ Community.
+
+This project communicates with third-party services (Top-Games and Discord).
+Their APIs, availability, limits and terms remain subject to those services.
