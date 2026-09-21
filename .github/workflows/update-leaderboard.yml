@@ -41,7 +41,7 @@ jobs:
         env:
           TOP_GAMES_TOKEN: ${{ secrets.TOP_GAMES_TOKEN }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          LEADERBOARD_PAGE_SIZE: ${{ vars.LEADERBOARD_PAGE_SIZE || '20' }}
+          LEADERBOARD_PAGE_SIZE: ${{ vars.LEADERBOARD_PAGE_SIZE || '50' }}
         run: python vote_leaderboard.py
 
       - name: Save leaderboard state and monthly history
