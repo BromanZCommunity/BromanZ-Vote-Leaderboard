@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 76,
+      "votes": 78,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 64,
+      "votes": 65,
       "position": 2
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "playername": "geer",
-      "votes": 12,
+      "votes": 13,
       "position": 5
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "playername": "MilchTanne",
-      "votes": 8,
+      "votes": 9,
       "position": 8
     },
     {
@@ -127,49 +127,54 @@
       "position": 25
     },
     {
-      "playername": "Im not geer",
+      "playername": "Hotte",
       "votes": 1,
       "position": 26
     },
     {
-      "playername": "lucian",
+      "playername": "Im not geer",
       "votes": 1,
       "position": 27
     },
     {
-      "playername": "LuciTheBest",
+      "playername": "lucian",
       "votes": 1,
       "position": 28
     },
     {
-      "playername": "Luckner",
+      "playername": "LuciTheBest",
       "votes": 1,
       "position": 29
     },
     {
-      "playername": "Mad_Fox",
+      "playername": "Luckner",
       "votes": 1,
       "position": 30
     },
     {
-      "playername": "MineTreas",
+      "playername": "Mad_Fox",
       "votes": 1,
       "position": 31
     },
     {
-      "playername": "Rexiper",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 32
     },
     {
-      "playername": "Sucka4Pain",
+      "playername": "Rexiper",
       "votes": 1,
       "position": 33
     },
     {
-      "playername": "TigarCRO",
+      "playername": "Sucka4Pain",
       "votes": 1,
       "position": 34
+    },
+    {
+      "playername": "TigarCRO",
+      "votes": 1,
+      "position": 35
     }
   ],
   "current_message_ids": [
@@ -180,5 +185,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-22T09:20:05.402611+02:00"
+  "last_updated": "2026-09-22T14:47:34.432671+02:00"
 }
