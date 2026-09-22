@@ -3,9 +3,9 @@ name: Update Vote Leaderboards
 on:
   workflow_dispatch:
   schedule:
-    # Run once every hour. GitHub Actions cron schedules always use UTC.
-    # Minute 7 avoids the busiest exact-hour scheduling window.
-    - cron: '7 * * * *'
+    # GitHub schedules are best-effort and can occasionally skip or delay a run.
+    # Two attempts per hour keep the Discord leaderboard reliably up to date.
+    - cron: '7,37 * * * *'
 
 permissions:
   contents: write
