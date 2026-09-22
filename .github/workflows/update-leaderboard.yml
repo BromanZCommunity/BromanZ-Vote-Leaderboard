@@ -3,9 +3,9 @@ name: Update Vote Leaderboards
 on:
   workflow_dispatch:
   schedule:
-    # GitHub schedules are best-effort and can occasionally skip or delay a run.
-    # Two attempts per hour keep the Discord leaderboard reliably up to date.
-    - cron: '7,37 * * * *'
+    # Public-repository Actions minutes are free. Frequent attempts make the
+    # Discord leaderboard resilient to delayed or skipped GitHub cron events.
+    - cron: '*/10 * * * *'
 
 permissions:
   contents: write
