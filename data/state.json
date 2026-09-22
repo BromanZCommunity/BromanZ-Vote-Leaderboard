@@ -28,7 +28,7 @@
     },
     {
       "playername": "MilchTanne",
-      "votes": 13,
+      "votes": 14,
       "position": 6
     },
     {
@@ -67,28 +67,28 @@
       "position": 13
     },
     {
-      "playername": "Gurke",
+      "playername": "Epic",
       "votes": 3,
       "position": 14
     },
     {
-      "playername": "Loki",
+      "playername": "Gurke",
       "votes": 3,
       "position": 15
     },
     {
-      "playername": "MOMA",
+      "playername": "Loki",
       "votes": 3,
       "position": 16
     },
     {
-      "playername": "sleone",
+      "playername": "MOMA",
       "votes": 3,
       "position": 17
     },
     {
-      "playername": "Epic",
-      "votes": 2,
+      "playername": "sleone",
+      "votes": 3,
       "position": 18
     },
     {
@@ -107,67 +107,67 @@
       "position": 21
     },
     {
-      "playername": "stug",
+      "playername": "Ruppert",
       "votes": 2,
       "position": 22
     },
     {
-      "playername": "t",
+      "playername": "stug",
       "votes": 2,
       "position": 23
     },
     {
-      "playername": "Weeddocter",
+      "playername": "t",
       "votes": 2,
       "position": 24
     },
     {
-      "playername": "Brina",
-      "votes": 1,
+      "playername": "Weeddocter",
+      "votes": 2,
       "position": 25
     },
     {
-      "playername": "DeadPooL",
+      "playername": "Brina",
       "votes": 1,
       "position": 26
     },
     {
-      "playername": "Im not geer",
+      "playername": "DeadPooL",
       "votes": 1,
       "position": 27
     },
     {
-      "playername": "lucian",
+      "playername": "Im not geer",
       "votes": 1,
       "position": 28
     },
     {
-      "playername": "LuciTheBest",
+      "playername": "lucian",
       "votes": 1,
       "position": 29
     },
     {
-      "playername": "Luckner",
+      "playername": "LuciTheBest",
       "votes": 1,
       "position": 30
     },
     {
-      "playername": "Mad_Fox",
+      "playername": "Luckner",
       "votes": 1,
       "position": 31
     },
     {
-      "playername": "MineTreas",
+      "playername": "Mad_Fox",
       "votes": 1,
       "position": 32
     },
     {
-      "playername": "Rexiper",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 33
     },
     {
-      "playername": "Ruppert",
+      "playername": "Rexiper",
       "votes": 1,
       "position": 34
     },
@@ -190,5 +190,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-22T22:55:32.499954+02:00"
+  "last_updated": "2026-09-23T01:29:32.739914+02:00"
 }
