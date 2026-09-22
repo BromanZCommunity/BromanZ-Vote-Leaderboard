@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 78,
+      "votes": 79,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 65,
+      "votes": 66,
       "position": 2
     },
     {
@@ -23,21 +23,21 @@
     },
     {
       "playername": "geer",
-      "votes": 13,
+      "votes": 14,
       "position": 5
     },
     {
-      "playername": "Misoo",
+      "playername": "MilchTanne",
       "votes": 10,
       "position": 6
     },
     {
-      "playername": "Luci",
-      "votes": 9,
+      "playername": "Misoo",
+      "votes": 10,
       "position": 7
     },
     {
-      "playername": "MilchTanne",
+      "playername": "Luci",
       "votes": 9,
       "position": 8
     },
@@ -185,5 +185,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-22T14:47:34.432671+02:00"
+  "last_updated": "2026-09-22T15:58:06.550500+02:00"
 }
