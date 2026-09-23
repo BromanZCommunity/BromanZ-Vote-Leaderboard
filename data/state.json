@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 88,
+      "votes": 89,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 70,
+      "votes": 71,
       "position": 2
     },
     {
@@ -17,13 +17,13 @@
       "position": 3
     },
     {
-      "playername": "GoDZilla",
-      "votes": 20,
+      "playername": "MilchTanne",
+      "votes": 21,
       "position": 4
     },
     {
-      "playername": "MilchTanne",
-      "votes": 19,
+      "playername": "GoDZilla",
+      "votes": 20,
       "position": 5
     },
     {
@@ -62,32 +62,32 @@
       "position": 12
     },
     {
-      "playername": "Luke",
+      "playername": "Hotte",
       "votes": 4,
       "position": 13
     },
     {
-      "playername": "Manch",
+      "playername": "Luke",
       "votes": 4,
       "position": 14
     },
     {
-      "playername": "Gurke",
-      "votes": 3,
+      "playername": "Manch",
+      "votes": 4,
       "position": 15
     },
     {
-      "playername": "Hotte",
-      "votes": 3,
+      "playername": "MOMA",
+      "votes": 4,
       "position": 16
     },
     {
-      "playername": "Loki",
+      "playername": "Gurke",
       "votes": 3,
       "position": 17
     },
     {
-      "playername": "MOMA",
+      "playername": "Loki",
       "votes": 3,
       "position": 18
     },
@@ -97,17 +97,17 @@
       "position": 19
     },
     {
-      "playername": "sleone",
+      "playername": "Ruppert",
       "votes": 3,
       "position": 20
     },
     {
-      "playername": "LoVeScOut24De",
-      "votes": 2,
+      "playername": "sleone",
+      "votes": 3,
       "position": 21
     },
     {
-      "playername": "Ruppert",
+      "playername": "LoVeScOut24De",
       "votes": 2,
       "position": 22
     },
@@ -137,49 +137,54 @@
       "position": 27
     },
     {
-      "playername": "Im not geer",
+      "playername": "Dragev",
       "votes": 1,
       "position": 28
     },
     {
-      "playername": "lucian",
+      "playername": "Im not geer",
       "votes": 1,
       "position": 29
     },
     {
-      "playername": "LuciTheBest",
+      "playername": "lucian",
       "votes": 1,
       "position": 30
     },
     {
-      "playername": "Luckner",
+      "playername": "LuciTheBest",
       "votes": 1,
       "position": 31
     },
     {
-      "playername": "Mad_Fox",
+      "playername": "Luckner",
       "votes": 1,
       "position": 32
     },
     {
-      "playername": "MineTreas",
+      "playername": "Mad_Fox",
       "votes": 1,
       "position": 33
     },
     {
-      "playername": "Rexiper",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 34
     },
     {
-      "playername": "Sucka4Pain",
+      "playername": "Rexiper",
       "votes": 1,
       "position": 35
     },
     {
-      "playername": "TigarCRO",
+      "playername": "Sucka4Pain",
       "votes": 1,
       "position": 36
+    },
+    {
+      "playername": "TigarCRO",
+      "votes": 1,
+      "position": 37
     }
   ],
   "current_message_ids": [
@@ -190,5 +195,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-23T19:13:46.606489+02:00"
+  "last_updated": "2026-09-23T22:27:50.290946+02:00"
 }
