@@ -3,7 +3,7 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 86,
+      "votes": 88,
       "position": 1
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "playername": "Geer2",
-      "votes": 50,
+      "votes": 52,
       "position": 3
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "playername": "MilchTanne",
-      "votes": 18,
+      "votes": 19,
       "position": 5
     },
     {
@@ -57,18 +57,18 @@
       "position": 11
     },
     {
-      "playername": "Luke",
-      "votes": 4,
+      "playername": "Epic",
+      "votes": 5,
       "position": 12
     },
     {
-      "playername": "Manch",
+      "playername": "Luke",
       "votes": 4,
       "position": 13
     },
     {
-      "playername": "Epic",
-      "votes": 3,
+      "playername": "Manch",
+      "votes": 4,
       "position": 14
     },
     {
@@ -190,5 +190,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-23T14:17:25.759611+02:00"
+  "last_updated": "2026-09-23T19:13:46.606489+02:00"
 }
