@@ -3,22 +3,22 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 91,
+      "votes": 93,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 73,
+      "votes": 74,
       "position": 2
     },
     {
       "playername": "Geer2",
-      "votes": 52,
+      "votes": 54,
       "position": 3
     },
     {
       "playername": "MilchTanne",
-      "votes": 25,
+      "votes": 27,
       "position": 4
     },
     {
@@ -195,5 +195,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-24T08:15:47.277022+02:00"
+  "last_updated": "2026-09-24T13:55:44.325723+02:00"
 }
