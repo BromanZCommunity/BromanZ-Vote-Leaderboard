@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 95,
+      "votes": 96,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 76,
+      "votes": 77,
       "position": 2
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "playername": "MilchTanne",
-      "votes": 29,
+      "votes": 30,
       "position": 4
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "playername": "Luci",
-      "votes": 11,
+      "votes": 12,
       "position": 7
     },
     {
@@ -52,18 +52,18 @@
       "position": 10
     },
     {
-      "playername": "Madviking",
+      "playername": "Hotte",
       "votes": 6,
       "position": 11
     },
     {
-      "playername": "Peridus",
+      "playername": "Madviking",
       "votes": 6,
       "position": 12
     },
     {
-      "playername": "Hotte",
-      "votes": 5,
+      "playername": "Peridus",
+      "votes": 6,
       "position": 13
     },
     {
@@ -72,32 +72,32 @@
       "position": 14
     },
     {
-      "playername": "Luke",
+      "playername": "Gurke",
       "votes": 4,
       "position": 15
     },
     {
-      "playername": "Manch",
+      "playername": "Luke",
       "votes": 4,
       "position": 16
     },
     {
-      "playername": "Gurke",
-      "votes": 3,
+      "playername": "Manch",
+      "votes": 4,
       "position": 17
+    },
+    {
+      "playername": "Ruppert",
+      "votes": 4,
+      "position": 18
     },
     {
       "playername": "Loki",
       "votes": 3,
-      "position": 18
-    },
-    {
-      "playername": "NagatoBrasco",
-      "votes": 3,
       "position": 19
     },
     {
-      "playername": "Ruppert",
+      "playername": "NagatoBrasco",
       "votes": 3,
       "position": 20
     },
@@ -195,5 +195,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-24T18:33:32.584274+02:00"
+  "last_updated": "2026-09-24T22:06:13.189525+02:00"
 }
