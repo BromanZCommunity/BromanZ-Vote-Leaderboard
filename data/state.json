@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 90,
+      "votes": 91,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 71,
+      "votes": 73,
       "position": 2
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "playername": "MilchTanne",
-      "votes": 23,
+      "votes": 25,
       "position": 4
     },
     {
@@ -42,17 +42,17 @@
       "position": 8
     },
     {
-      "playername": "Madviking",
-      "votes": 6,
+      "playername": "SLAYER (Turbo)",
+      "votes": 7,
       "position": 9
     },
     {
-      "playername": "Peridus",
+      "playername": "Madviking",
       "votes": 6,
       "position": 10
     },
     {
-      "playername": "SLAYER (Turbo)",
+      "playername": "Peridus",
       "votes": 6,
       "position": 11
     },
@@ -195,5 +195,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-24T03:19:57.992998+02:00"
+  "last_updated": "2026-09-24T08:15:47.277022+02:00"
 }
