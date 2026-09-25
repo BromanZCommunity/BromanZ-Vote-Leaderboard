@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 98,
+      "votes": 100,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 77,
+      "votes": 78,
       "position": 2
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "playername": "MilchTanne",
-      "votes": 31,
+      "votes": 32,
       "position": 4
     },
     {
@@ -42,17 +42,17 @@
       "position": 8
     },
     {
-      "playername": "SLAYER (Turbo)",
+      "playername": "Hotte",
       "votes": 7,
       "position": 9
     },
     {
-      "playername": "Epic",
-      "votes": 6,
+      "playername": "SLAYER (Turbo)",
+      "votes": 7,
       "position": 10
     },
     {
-      "playername": "Hotte",
+      "playername": "Epic",
       "votes": 6,
       "position": 11
     },
@@ -107,37 +107,37 @@
       "position": 21
     },
     {
-      "playername": "LoVeScOut24De",
+      "playername": "Dragev",
       "votes": 2,
       "position": 22
     },
     {
-      "playername": "stug",
+      "playername": "LoVeScOut24De",
       "votes": 2,
       "position": 23
     },
     {
-      "playername": "t",
+      "playername": "stug",
       "votes": 2,
       "position": 24
     },
     {
-      "playername": "Weeddocter",
+      "playername": "t",
       "votes": 2,
       "position": 25
     },
     {
-      "playername": "Brina",
-      "votes": 1,
+      "playername": "Weeddocter",
+      "votes": 2,
       "position": 26
     },
     {
-      "playername": "DeadPooL",
+      "playername": "Brina",
       "votes": 1,
       "position": 27
     },
     {
-      "playername": "Dragev",
+      "playername": "DeadPooL",
       "votes": 1,
       "position": 28
     },
@@ -195,5 +195,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-25T03:35:25.394001+02:00"
+  "last_updated": "2026-09-25T08:34:09.263876+02:00"
 }
