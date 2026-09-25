@@ -3,22 +3,22 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 104,
+      "votes": 105,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 81,
+      "votes": 82,
       "position": 2
     },
     {
       "playername": "Geer2",
-      "votes": 58,
+      "votes": 59,
       "position": 3
     },
     {
       "playername": "MilchTanne",
-      "votes": 37,
+      "votes": 38,
       "position": 4
     },
     {
@@ -142,54 +142,59 @@
       "position": 28
     },
     {
-      "playername": "Forest votes too much",
+      "playername": "Fargram",
       "votes": 1,
       "position": 29
     },
     {
-      "playername": "Im not geer",
+      "playername": "Forest votes too much",
       "votes": 1,
       "position": 30
     },
     {
-      "playername": "lucian",
+      "playername": "Im not geer",
       "votes": 1,
       "position": 31
     },
     {
-      "playername": "LuciTheBest",
+      "playername": "lucian",
       "votes": 1,
       "position": 32
     },
     {
-      "playername": "Luckner",
+      "playername": "LuciTheBest",
       "votes": 1,
       "position": 33
     },
     {
-      "playername": "Mad_Fox",
+      "playername": "Luckner",
       "votes": 1,
       "position": 34
     },
     {
-      "playername": "MineTreas",
+      "playername": "Mad_Fox",
       "votes": 1,
       "position": 35
     },
     {
-      "playername": "Rexiper",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 36
     },
     {
-      "playername": "Sucka4Pain",
+      "playername": "Rexiper",
       "votes": 1,
       "position": 37
     },
     {
-      "playername": "TigarCRO",
+      "playername": "Sucka4Pain",
       "votes": 1,
       "position": 38
+    },
+    {
+      "playername": "TigarCRO",
+      "votes": 1,
+      "position": 39
     }
   ],
   "current_message_ids": [
@@ -200,5 +205,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-25T19:09:42.718759+02:00"
+  "last_updated": "2026-09-25T22:29:03.126097+02:00"
 }
