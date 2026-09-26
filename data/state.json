@@ -3,7 +3,7 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 105,
+      "votes": 106,
       "position": 1
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "playername": "MilchTanne",
-      "votes": 39,
+      "votes": 40,
       "position": 4
     },
     {
@@ -205,5 +205,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-26T03:51:37.538896+02:00"
+  "last_updated": "2026-09-26T09:03:15.237510+02:00"
 }
