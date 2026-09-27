@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 112,
+      "votes": 114,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 85,
+      "votes": 86,
       "position": 2
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "playername": "MilchTanne",
-      "votes": 47,
+      "votes": 49,
       "position": 4
     },
     {
@@ -112,37 +112,37 @@
       "position": 22
     },
     {
-      "playername": "LoVeScOut24De",
+      "playername": "Fargram",
       "votes": 2,
       "position": 23
     },
     {
-      "playername": "stug",
+      "playername": "LoVeScOut24De",
       "votes": 2,
       "position": 24
     },
     {
-      "playername": "t",
+      "playername": "stug",
       "votes": 2,
       "position": 25
     },
     {
-      "playername": "Weeddocter",
+      "playername": "t",
       "votes": 2,
       "position": 26
     },
     {
-      "playername": "Brina",
-      "votes": 1,
+      "playername": "Weeddocter",
+      "votes": 2,
       "position": 27
     },
     {
-      "playername": "DeadPooL",
+      "playername": "Brina",
       "votes": 1,
       "position": 28
     },
     {
-      "playername": "Fargram",
+      "playername": "DeadPooL",
       "votes": 1,
       "position": 29
     },
@@ -205,5 +205,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-27T07:41:57.469881+02:00"
+  "last_updated": "2026-09-27T12:49:06.442267+02:00"
 }
