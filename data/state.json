@@ -3,7 +3,7 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 118,
+      "votes": 119,
       "position": 1
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "playername": "MilchTanne",
-      "votes": 54,
+      "votes": 57,
       "position": 4
     },
     {
@@ -77,13 +77,13 @@
       "position": 15
     },
     {
-      "playername": "Gurke",
+      "playername": "Dragev",
       "votes": 5,
       "position": 16
     },
     {
-      "playername": "Dragev",
-      "votes": 4,
+      "playername": "Gurke",
+      "votes": 5,
       "position": 17
     },
     {
@@ -215,5 +215,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-28T02:41:57.003773+02:00"
+  "last_updated": "2026-09-28T07:56:24.751214+02:00"
 }
