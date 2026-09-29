@@ -13,12 +13,12 @@
     },
     {
       "playername": "Geer2",
-      "votes": 65,
+      "votes": 66,
       "position": 3
     },
     {
       "playername": "MilchTanne",
-      "votes": 62,
+      "votes": 63,
       "position": 4
     },
     {
@@ -27,12 +27,12 @@
       "position": 5
     },
     {
-      "playername": "geer",
-      "votes": 16,
+      "playername": "Luci",
+      "votes": 17,
       "position": 6
     },
     {
-      "playername": "Luci",
+      "playername": "geer",
       "votes": 16,
       "position": 7
     },
@@ -215,5 +215,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-28T22:06:21.178002+02:00"
+  "last_updated": "2026-09-29T02:20:30.721679+02:00"
 }
