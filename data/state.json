@@ -3,22 +3,22 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 126,
+      "votes": 128,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 93,
+      "votes": 94,
       "position": 2
     },
     {
       "playername": "MilchTanne",
-      "votes": 68,
+      "votes": 70,
       "position": 3
     },
     {
       "playername": "Geer2",
-      "votes": 66,
+      "votes": 69,
       "position": 4
     },
     {
@@ -62,23 +62,23 @@
       "position": 12
     },
     {
-      "playername": "Madviking",
-      "votes": 6,
+      "playername": "Peridus",
+      "votes": 7,
       "position": 13
     },
     {
-      "playername": "MOMA",
+      "playername": "Dragev",
       "votes": 6,
       "position": 14
     },
     {
-      "playername": "Peridus",
+      "playername": "Madviking",
       "votes": 6,
       "position": 15
     },
     {
-      "playername": "Dragev",
-      "votes": 5,
+      "playername": "MOMA",
+      "votes": 6,
       "position": 16
     },
     {
@@ -167,44 +167,49 @@
       "position": 33
     },
     {
-      "playername": "lucian",
+      "playername": "luci the best:P",
       "votes": 1,
       "position": 34
     },
     {
-      "playername": "LuciTheBest",
+      "playername": "lucian",
       "votes": 1,
       "position": 35
     },
     {
-      "playername": "Luckner",
+      "playername": "LuciTheBest",
       "votes": 1,
       "position": 36
     },
     {
-      "playername": "Mad_Fox",
+      "playername": "Luckner",
       "votes": 1,
       "position": 37
     },
     {
-      "playername": "MineTreas",
+      "playername": "Mad_Fox",
       "votes": 1,
       "position": 38
     },
     {
-      "playername": "Rexiper",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 39
     },
     {
-      "playername": "Sucka4Pain",
+      "playername": "Rexiper",
       "votes": 1,
       "position": 40
     },
     {
-      "playername": "TigarCRO",
+      "playername": "Sucka4Pain",
       "votes": 1,
       "position": 41
+    },
+    {
+      "playername": "TigarCRO",
+      "votes": 1,
+      "position": 42
     }
   ],
   "current_message_ids": [
@@ -215,5 +220,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-29T14:38:49.574491+02:00"
+  "last_updated": "2026-09-29T20:15:13.056685+02:00"
 }
