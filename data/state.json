@@ -3,22 +3,22 @@
   "current_snapshot": [
     {
       "playername": "Forest",
-      "votes": 131,
+      "votes": 133,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 98,
+      "votes": 99,
       "position": 2
     },
     {
       "playername": "MilchTanne",
-      "votes": 76,
+      "votes": 78,
       "position": 3
     },
     {
       "playername": "Geer2",
-      "votes": 71,
+      "votes": 72,
       "position": 4
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "playername": "Hotte",
-      "votes": 13,
+      "votes": 14,
       "position": 8
     },
     {
       "playername": "Ruppert",
-      "votes": 11,
+      "votes": 12,
       "position": 9
     },
     {
@@ -167,49 +167,54 @@
       "position": 33
     },
     {
-      "playername": "luci the best:P",
+      "playername": "Luci the best",
       "votes": 1,
       "position": 34
     },
     {
-      "playername": "lucian",
+      "playername": "luci the best:P",
       "votes": 1,
       "position": 35
     },
     {
-      "playername": "LuciTheBest",
+      "playername": "lucian",
       "votes": 1,
       "position": 36
     },
     {
-      "playername": "Luckner",
+      "playername": "LuciTheBest",
       "votes": 1,
       "position": 37
     },
     {
-      "playername": "Mad_Fox",
+      "playername": "Luckner",
       "votes": 1,
       "position": 38
     },
     {
-      "playername": "MineTreas",
+      "playername": "Mad_Fox",
       "votes": 1,
       "position": 39
     },
     {
-      "playername": "Rexiper",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 40
     },
     {
-      "playername": "Sucka4Pain",
+      "playername": "Rexiper",
       "votes": 1,
       "position": 41
     },
     {
-      "playername": "TigarCRO",
+      "playername": "Sucka4Pain",
       "votes": 1,
       "position": 42
+    },
+    {
+      "playername": "TigarCRO",
+      "votes": 1,
+      "position": 43
     }
   ],
   "current_message_ids": [
@@ -220,5 +225,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-09-30T15:37:45.976854+02:00"
+  "last_updated": "2026-09-30T20:33:54.755983+02:00"
 }
