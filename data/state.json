@@ -2,9 +2,39 @@
   "current_month": "2026-10",
   "current_snapshot": [
     {
+      "playername": "MilchTanne",
+      "votes": 2,
+      "position": 1
+    },
+    {
       "playername": ".MilchTanne",
       "votes": 1,
-      "position": 1
+      "position": 2
+    },
+    {
+      "playername": "Fargram",
+      "votes": 1,
+      "position": 3
+    },
+    {
+      "playername": "Forest",
+      "votes": 1,
+      "position": 4
+    },
+    {
+      "playername": "Geer2",
+      "votes": 1,
+      "position": 5
+    },
+    {
+      "playername": "Hotte",
+      "votes": 1,
+      "position": 6
+    },
+    {
+      "playername": "TigarCRO",
+      "votes": 1,
+      "position": 7
     }
   ],
   "current_message_ids": [
@@ -15,5 +45,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-01T03:31:48.785749+02:00"
+  "last_updated": "2026-10-01T09:45:39.272839+02:00"
 }
