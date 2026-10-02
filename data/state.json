@@ -3,51 +3,51 @@
   "current_snapshot": [
     {
       "playername": "MilchTanne",
-      "votes": 14,
+      "votes": 15,
       "position": 1
     },
     {
       "playername": "Forest",
-      "votes": 6,
+      "votes": 7,
       "position": 2
     },
     {
       "playername": "TigarCRO",
-      "votes": 6,
+      "votes": 7,
       "position": 3
     },
     {
       "playername": "Geer2",
-      "votes": 4,
+      "votes": 5,
       "position": 4
     },
     {
       "playername": "Ruppert",
-      "votes": 4,
+      "votes": 5,
       "position": 5
     },
     {
       "playername": "Hotte",
-      "votes": 2,
+      "votes": 3,
       "position": 6
+    },
+    {
+      "playername": "Luci",
+      "votes": 2,
+      "position": 7
     },
     {
       "playername": ".MilchTanne",
       "votes": 1,
-      "position": 7
+      "position": 8
     },
     {
       "playername": "Dragev",
       "votes": 1,
-      "position": 8
-    },
-    {
-      "playername": "Fargram",
-      "votes": 1,
       "position": 9
     },
     {
-      "playername": "Luci",
+      "playername": "Fargram",
       "votes": 1,
       "position": 10
     }
@@ -60,5 +60,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-02T17:39:57.901057+02:00"
+  "last_updated": "2026-10-02T22:07:45.915302+02:00"
 }
