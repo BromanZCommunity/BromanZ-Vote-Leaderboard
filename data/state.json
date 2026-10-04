@@ -8,12 +8,12 @@
     },
     {
       "playername": "Forest",
-      "votes": 14,
+      "votes": 15,
       "position": 2
     },
     {
       "playername": "TigarCRO",
-      "votes": 13,
+      "votes": 14,
       "position": 3
     },
     {
@@ -47,14 +47,24 @@
       "position": 9
     },
     {
-      "playername": "Fargram",
+      "playername": "Arty1215",
       "votes": 1,
       "position": 10
     },
     {
-      "playername": "MOMA",
+      "playername": "Fargram",
       "votes": 1,
       "position": 11
+    },
+    {
+      "playername": "MOMA",
+      "votes": 1,
+      "position": 12
+    },
+    {
+      "playername": "SLAYER (Turbo)",
+      "votes": 1,
+      "position": 13
     }
   ],
   "current_message_ids": [
@@ -65,5 +75,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-04T20:16:28.108697+02:00"
+  "last_updated": "2026-10-04T23:36:57.582729+02:00"
 }
