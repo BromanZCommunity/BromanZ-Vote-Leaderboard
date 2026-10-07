@@ -3,7 +3,7 @@
   "current_snapshot": [
     {
       "playername": "TigarCRO",
-      "votes": 23,
+      "votes": 25,
       "position": 1
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "playername": "Geer2",
-      "votes": 19,
+      "votes": 21,
       "position": 4
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "playername": "Hotte",
-      "votes": 7,
+      "votes": 8,
       "position": 6
     },
     {
@@ -47,17 +47,17 @@
       "position": 9
     },
     {
-      "playername": ".MilchTanne",
-      "votes": 1,
+      "playername": "Fargram",
+      "votes": 2,
       "position": 10
     },
     {
-      "playername": "Arty1215",
+      "playername": ".MilchTanne",
       "votes": 1,
       "position": 11
     },
     {
-      "playername": "Fargram",
+      "playername": "Arty1215",
       "votes": 1,
       "position": 12
     },
@@ -80,5 +80,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-07T13:08:35.541676+02:00"
+  "last_updated": "2026-10-07T19:48:18.439025+02:00"
 }
