@@ -28,7 +28,7 @@
     },
     {
       "playername": "Luci",
-      "votes": 12,
+      "votes": 13,
       "position": 6
     },
     {
@@ -67,14 +67,19 @@
       "position": 13
     },
     {
-      "playername": "stug",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 14
     },
     {
-      "playername": "TigerCRO",
+      "playername": "stug",
       "votes": 1,
       "position": 15
+    },
+    {
+      "playername": "TigerCRO",
+      "votes": 1,
+      "position": 16
     }
   ],
   "current_message_ids": [
@@ -85,5 +90,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-10T21:22:01.780655+02:00"
+  "last_updated": "2026-10-11T00:48:17.575225+02:00"
 }
