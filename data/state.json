@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "TigarCRO",
-      "votes": 32,
+      "votes": 33,
       "position": 1
     },
     {
       "playername": "Geer2",
-      "votes": 28,
+      "votes": 29,
       "position": 2
     },
     {
@@ -23,17 +23,17 @@
     },
     {
       "playername": "Hotte",
-      "votes": 12,
+      "votes": 13,
       "position": 5
     },
     {
-      "playername": "SLAYER (Turbo)",
+      "playername": "Luci",
       "votes": 12,
       "position": 6
     },
     {
-      "playername": "Luci",
-      "votes": 11,
+      "playername": "SLAYER (Turbo)",
+      "votes": 12,
       "position": 7
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "playername": "Dragev",
-      "votes": 7,
+      "votes": 8,
       "position": 9
     },
     {
@@ -85,5 +85,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-10T17:18:47.269617+02:00"
+  "last_updated": "2026-10-10T21:22:01.780655+02:00"
 }
