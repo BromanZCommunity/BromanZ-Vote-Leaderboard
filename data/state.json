@@ -3,17 +3,17 @@
   "current_snapshot": [
     {
       "playername": "TigarCRO",
-      "votes": 33,
+      "votes": 35,
       "position": 1
     },
     {
       "playername": "Geer2",
-      "votes": 30,
+      "votes": 31,
       "position": 2
     },
     {
       "playername": "Forest",
-      "votes": 27,
+      "votes": 28,
       "position": 3
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "playername": "Hotte",
-      "votes": 13,
+      "votes": 14,
       "position": 5
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "playername": "Fargram",
-      "votes": 9,
+      "votes": 10,
       "position": 8
     },
     {
@@ -90,5 +90,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-11T09:34:58.699777+02:00"
+  "last_updated": "2026-10-11T16:21:11.794330+02:00"
 }
