@@ -3,7 +3,7 @@
   "current_snapshot": [
     {
       "playername": "TigarCRO",
-      "votes": 35,
+      "votes": 37,
       "position": 1
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 12,
+      "votes": 13,
       "position": 7
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "playername": "Dragev",
-      "votes": 8,
+      "votes": 9,
       "position": 9
     },
     {
@@ -62,24 +62,34 @@
       "position": 12
     },
     {
-      "playername": "Arty1215",
+      "playername": "Abusarah",
       "votes": 1,
       "position": 13
     },
     {
-      "playername": "MineTreas",
+      "playername": "Arty1215",
       "votes": 1,
       "position": 14
     },
     {
-      "playername": "stug",
+      "playername": "Magic",
       "votes": 1,
       "position": 15
     },
     {
-      "playername": "TigerCRO",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 16
+    },
+    {
+      "playername": "stug",
+      "votes": 1,
+      "position": 17
+    },
+    {
+      "playername": "TigerCRO",
+      "votes": 1,
+      "position": 18
     }
   ],
   "current_message_ids": [
@@ -90,5 +100,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-11T16:21:11.794330+02:00"
+  "last_updated": "2026-10-11T21:05:51.915691+02:00"
 }
