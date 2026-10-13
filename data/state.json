@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "TigarCRO",
-      "votes": 41,
+      "votes": 42,
       "position": 1
     },
     {
       "playername": "Geer2",
-      "votes": 35,
+      "votes": 36,
       "position": 2
     },
     {
@@ -22,18 +22,18 @@
       "position": 4
     },
     {
+      "playername": "SLAYER (Turbo)",
+      "votes": 18,
+      "position": 5
+    },
+    {
       "playername": "Hotte",
       "votes": 17,
-      "position": 5
+      "position": 6
     },
     {
       "playername": "Luci",
       "votes": 16,
-      "position": 6
-    },
-    {
-      "playername": "SLAYER (Turbo)",
-      "votes": 15,
       "position": 7
     },
     {
@@ -52,13 +52,13 @@
       "position": 10
     },
     {
-      "playername": "MOMA",
+      "playername": "Abusarah",
       "votes": 3,
       "position": 11
     },
     {
-      "playername": "Abusarah",
-      "votes": 2,
+      "playername": "MOMA",
+      "votes": 3,
       "position": 12
     },
     {
@@ -87,14 +87,19 @@
       "position": 17
     },
     {
-      "playername": "stug",
+      "playername": "Sr.Barbosa",
       "votes": 1,
       "position": 18
     },
     {
-      "playername": "TigerCRO",
+      "playername": "stug",
       "votes": 1,
       "position": 19
+    },
+    {
+      "playername": "TigerCRO",
+      "votes": 1,
+      "position": 20
     }
   ],
   "current_message_ids": [
@@ -105,5 +110,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-12T20:11:13.346946+02:00"
+  "last_updated": "2026-10-13T02:47:50.188352+02:00"
 }
