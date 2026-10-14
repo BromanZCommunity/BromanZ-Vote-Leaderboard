@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "TigarCRO",
-      "votes": 46,
+      "votes": 47,
       "position": 1
     },
     {
       "playername": "Geer2",
-      "votes": 42,
+      "votes": 43,
       "position": 2
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 24,
+      "votes": 25,
       "position": 4
     },
     {
@@ -120,5 +120,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-14T16:27:39.955363+02:00"
+  "last_updated": "2026-10-14T20:48:49.599544+02:00"
 }
