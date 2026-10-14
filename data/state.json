@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "TigarCRO",
-      "votes": 45,
+      "votes": 46,
       "position": 1
     },
     {
       "playername": "Geer2",
-      "votes": 40,
+      "votes": 42,
       "position": 2
     },
     {
@@ -17,12 +17,12 @@
       "position": 3
     },
     {
-      "playername": "MilchTanne",
-      "votes": 22,
+      "playername": "SLAYER (Turbo)",
+      "votes": 24,
       "position": 4
     },
     {
-      "playername": "SLAYER (Turbo)",
+      "playername": "MilchTanne",
       "votes": 22,
       "position": 5
     },
@@ -120,5 +120,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-14T10:59:19.808249+02:00"
+  "last_updated": "2026-10-14T16:27:39.955363+02:00"
 }
