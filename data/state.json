@@ -8,7 +8,7 @@
     },
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 49,
+      "votes": 52,
       "position": 2
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "playername": "Fargram",
-      "votes": 32,
+      "votes": 34,
       "position": 4
     },
     {
@@ -107,19 +107,24 @@
       "position": 21
     },
     {
-      "playername": "Sr.Barbosa",
+      "playername": "Punisher",
       "votes": 1,
       "position": 22
     },
     {
-      "playername": "stug",
+      "playername": "Sr.Barbosa",
       "votes": 1,
       "position": 23
     },
     {
-      "playername": "TigerCRO",
+      "playername": "stug",
       "votes": 1,
       "position": 24
+    },
+    {
+      "playername": "TigerCRO",
+      "votes": 1,
+      "position": 25
     }
   ],
   "current_message_ids": [
@@ -130,5 +135,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-18T02:57:10.365529+02:00"
+  "last_updated": "2026-10-18T07:31:37.301598+02:00"
 }
