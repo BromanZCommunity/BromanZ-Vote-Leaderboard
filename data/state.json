@@ -8,7 +8,7 @@
     },
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 55,
+      "votes": 56,
       "position": 2
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "playername": "Fargram",
-      "votes": 39,
+      "votes": 40,
       "position": 4
     },
     {
@@ -48,12 +48,12 @@
     },
     {
       "playername": "Ruppert",
-      "votes": 7,
+      "votes": 8,
       "position": 10
     },
     {
       "playername": "Abusarah",
-      "votes": 6,
+      "votes": 7,
       "position": 11
     },
     {
@@ -92,39 +92,44 @@
       "position": 18
     },
     {
-      "playername": "Magic",
+      "playername": "MadViking",
       "votes": 1,
       "position": 19
     },
     {
-      "playername": "MineTreas",
+      "playername": "Magic",
       "votes": 1,
       "position": 20
     },
     {
-      "playername": "outlander",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 21
     },
     {
-      "playername": "Punisher",
+      "playername": "outlander",
       "votes": 1,
       "position": 22
     },
     {
-      "playername": "Sr.Barbosa",
+      "playername": "Punisher",
       "votes": 1,
       "position": 23
     },
     {
-      "playername": "stug",
+      "playername": "Sr.Barbosa",
       "votes": 1,
       "position": 24
     },
     {
-      "playername": "TigerCRO",
+      "playername": "stug",
       "votes": 1,
       "position": 25
+    },
+    {
+      "playername": "TigerCRO",
+      "votes": 1,
+      "position": 26
     }
   ],
   "current_message_ids": [
@@ -135,5 +140,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-18T18:57:35.334257+02:00"
+  "last_updated": "2026-10-18T21:19:21.844404+02:00"
 }
