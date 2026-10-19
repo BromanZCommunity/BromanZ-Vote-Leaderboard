@@ -3,17 +3,17 @@
   "current_snapshot": [
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 63,
+      "votes": 66,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 58,
+      "votes": 60,
       "position": 2
     },
     {
       "playername": "Fargram",
-      "votes": 48,
+      "votes": 51,
       "position": 3
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "playername": "Hotte",
-      "votes": 26,
+      "votes": 27,
       "position": 6
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "playername": "Rexiper",
-      "votes": 3,
+      "votes": 4,
       "position": 13
     },
     {
@@ -72,37 +72,37 @@
       "position": 14
     },
     {
-      "playername": "outlander",
+      "playername": "Magic",
       "votes": 2,
       "position": 15
     },
     {
-      "playername": ".MilchTanne",
-      "votes": 1,
+      "playername": "outlander",
+      "votes": 2,
       "position": 16
     },
     {
-      "playername": "Altair",
+      "playername": ".MilchTanne",
       "votes": 1,
       "position": 17
     },
     {
-      "playername": "AnderHRO",
+      "playername": "Altair",
       "votes": 1,
       "position": 18
     },
     {
-      "playername": "Arty1215",
+      "playername": "AnderHRO",
       "votes": 1,
       "position": 19
     },
     {
-      "playername": "LizRed",
+      "playername": "Arty1215",
       "votes": 1,
       "position": 20
     },
     {
-      "playername": "Magic",
+      "playername": "LizRed",
       "votes": 1,
       "position": 21
     },
@@ -140,5 +140,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-19T16:19:33.553488+02:00"
+  "last_updated": "2026-10-19T22:00:39.313467+02:00"
 }
