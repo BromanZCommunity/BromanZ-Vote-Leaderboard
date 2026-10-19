@@ -3,7 +3,7 @@
   "current_snapshot": [
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 61,
+      "votes": 63,
       "position": 1
     },
     {
@@ -12,13 +12,13 @@
       "position": 2
     },
     {
-      "playername": "Geer2",
-      "votes": 46,
+      "playername": "Fargram",
+      "votes": 48,
       "position": 3
     },
     {
-      "playername": "Fargram",
-      "votes": 44,
+      "playername": "Geer2",
+      "votes": 46,
       "position": 4
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "playername": "Luci",
-      "votes": 22,
+      "votes": 23,
       "position": 7
     },
     {
@@ -62,52 +62,52 @@
       "position": 12
     },
     {
-      "playername": "MadViking",
-      "votes": 2,
+      "playername": "Rexiper",
+      "votes": 3,
       "position": 13
     },
     {
-      "playername": "Rexiper",
+      "playername": "MadViking",
       "votes": 2,
       "position": 14
     },
     {
-      "playername": ".MilchTanne",
-      "votes": 1,
+      "playername": "outlander",
+      "votes": 2,
       "position": 15
     },
     {
-      "playername": "Altair",
+      "playername": ".MilchTanne",
       "votes": 1,
       "position": 16
     },
     {
-      "playername": "AnderHRO",
+      "playername": "Altair",
       "votes": 1,
       "position": 17
     },
     {
-      "playername": "Arty1215",
+      "playername": "AnderHRO",
       "votes": 1,
       "position": 18
     },
     {
-      "playername": "LizRed",
+      "playername": "Arty1215",
       "votes": 1,
       "position": 19
     },
     {
-      "playername": "Magic",
+      "playername": "LizRed",
       "votes": 1,
       "position": 20
     },
     {
-      "playername": "MineTreas",
+      "playername": "Magic",
       "votes": 1,
       "position": 21
     },
     {
-      "playername": "outlander",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 22
     },
@@ -140,5 +140,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-19T08:50:42.517823+02:00"
+  "last_updated": "2026-10-19T16:19:33.553488+02:00"
 }
