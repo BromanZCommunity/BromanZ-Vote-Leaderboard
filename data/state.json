@@ -3,17 +3,17 @@
   "current_snapshot": [
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 69,
+      "votes": 71,
       "position": 1
     },
     {
       "playername": "TigarCRO",
-      "votes": 60,
+      "votes": 61,
       "position": 2
     },
     {
       "playername": "Fargram",
-      "votes": 54,
+      "votes": 55,
       "position": 3
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "playername": "Hotte",
-      "votes": 27,
+      "votes": 28,
       "position": 6
     },
     {
@@ -57,12 +57,12 @@
       "position": 11
     },
     {
-      "playername": "MOMA",
-      "votes": 4,
+      "playername": "Rexiper",
+      "votes": 6,
       "position": 12
     },
     {
-      "playername": "Rexiper",
+      "playername": "MOMA",
       "votes": 4,
       "position": 13
     },
@@ -140,5 +140,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-20T04:03:03.449731+02:00"
+  "last_updated": "2026-10-20T09:26:56.969069+02:00"
 }
