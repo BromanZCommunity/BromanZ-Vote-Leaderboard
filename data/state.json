@@ -3,7 +3,7 @@
   "current_snapshot": [
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 79,
+      "votes": 80,
       "position": 1
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "playername": "Fargram",
-      "votes": 62,
+      "votes": 63,
       "position": 3
     },
     {
@@ -140,5 +140,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-21T01:36:39.010470+02:00"
+  "last_updated": "2026-10-21T03:59:50.124499+02:00"
 }
