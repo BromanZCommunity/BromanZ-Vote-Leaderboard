@@ -3,17 +3,17 @@
   "current_snapshot": [
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 97,
+      "votes": 98,
       "position": 1
     },
     {
       "playername": "Fargram",
-      "votes": 79,
+      "votes": 81,
       "position": 2
     },
     {
       "playername": "TigarCRO",
-      "votes": 68,
+      "votes": 69,
       "position": 3
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "playername": "Forest",
-      "votes": 29,
+      "votes": 30,
       "position": 6
     },
     {
@@ -102,34 +102,39 @@
       "position": 20
     },
     {
-      "playername": "LizRed",
+      "playername": "Ka77per",
       "votes": 1,
       "position": 21
     },
     {
-      "playername": "MineTreas",
+      "playername": "LizRed",
       "votes": 1,
       "position": 22
     },
     {
-      "playername": "Punisher",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 23
     },
     {
-      "playername": "Sr.Barbosa",
+      "playername": "Punisher",
       "votes": 1,
       "position": 24
     },
     {
-      "playername": "stug",
+      "playername": "Sr.Barbosa",
       "votes": 1,
       "position": 25
     },
     {
-      "playername": "TigerCRO",
+      "playername": "stug",
       "votes": 1,
       "position": 26
+    },
+    {
+      "playername": "TigerCRO",
+      "votes": 1,
+      "position": 27
     }
   ],
   "current_message_ids": [
@@ -140,5 +145,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-22T16:59:55.344723+02:00"
+  "last_updated": "2026-10-22T21:08:51.834472+02:00"
 }
