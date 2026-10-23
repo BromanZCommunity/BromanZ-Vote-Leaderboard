@@ -3,27 +3,27 @@
   "current_snapshot": [
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 103,
+      "votes": 104,
       "position": 1
     },
     {
       "playername": "Fargram",
-      "votes": 85,
+      "votes": 87,
       "position": 2
     },
     {
       "playername": "TigarCRO",
-      "votes": 69,
+      "votes": 71,
       "position": 3
     },
     {
       "playername": "Geer2",
-      "votes": 51,
+      "votes": 53,
       "position": 4
     },
     {
       "playername": "Hotte",
-      "votes": 31,
+      "votes": 32,
       "position": 5
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "playername": "outlander",
-      "votes": 6,
+      "votes": 7,
       "position": 12
     },
     {
@@ -145,5 +145,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-23T07:26:26.247987+02:00"
+  "last_updated": "2026-10-23T12:23:58.544938+02:00"
 }
