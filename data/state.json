@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 119,
+      "votes": 121,
       "position": 1
     },
     {
       "playername": "Fargram",
-      "votes": 102,
+      "votes": 104,
       "position": 2
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "playername": "Hotte",
-      "votes": 32,
+      "votes": 33,
       "position": 5
     },
     {
@@ -87,37 +87,37 @@
       "position": 17
     },
     {
-      "playername": ".MilchTanne",
-      "votes": 1,
+      "playername": "Punisher",
+      "votes": 2,
       "position": 18
     },
     {
-      "playername": "Altair",
+      "playername": ".MilchTanne",
       "votes": 1,
       "position": 19
     },
     {
-      "playername": "AnderHRO",
+      "playername": "Altair",
       "votes": 1,
       "position": 20
     },
     {
-      "playername": "Arty1215",
+      "playername": "AnderHRO",
       "votes": 1,
       "position": 21
     },
     {
-      "playername": "LizRed",
+      "playername": "Arty1215",
       "votes": 1,
       "position": 22
     },
     {
-      "playername": "MineTreas",
+      "playername": "LizRed",
       "votes": 1,
       "position": 23
     },
     {
-      "playername": "Punisher",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 24
     },
@@ -145,5 +145,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-25T02:44:34.522393+01:00"
+  "last_updated": "2026-10-25T07:57:13.470875+01:00"
 }
