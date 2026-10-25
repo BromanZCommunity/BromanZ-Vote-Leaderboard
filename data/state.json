@@ -3,22 +3,22 @@
   "current_snapshot": [
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 121,
+      "votes": 123,
       "position": 1
     },
     {
       "playername": "Fargram",
-      "votes": 104,
+      "votes": 106,
       "position": 2
     },
     {
       "playername": "TigarCRO",
-      "votes": 75,
+      "votes": 77,
       "position": 3
     },
     {
       "playername": "Geer2",
-      "votes": 58,
+      "votes": 60,
       "position": 4
     },
     {
@@ -42,17 +42,17 @@
       "position": 8
     },
     {
-      "playername": "Ruppert",
+      "playername": "outlander",
       "votes": 12,
       "position": 9
     },
     {
-      "playername": "Dragev",
-      "votes": 11,
+      "playername": "Ruppert",
+      "votes": 12,
       "position": 10
     },
     {
-      "playername": "outlander",
+      "playername": "Dragev",
       "votes": 11,
       "position": 11
     },
@@ -63,7 +63,7 @@
     },
     {
       "playername": "Rexiper",
-      "votes": 7,
+      "votes": 8,
       "position": 13
     },
     {
@@ -135,6 +135,11 @@
       "playername": "TigerCRO",
       "votes": 1,
       "position": 27
+    },
+    {
+      "playername": "💀Punisher💀",
+      "votes": 1,
+      "position": 28
     }
   ],
   "current_message_ids": [
@@ -145,5 +150,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-25T07:57:13.470875+01:00"
+  "last_updated": "2026-10-25T13:24:22.481825+01:00"
 }
