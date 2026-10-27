@@ -3,27 +3,27 @@
   "current_snapshot": [
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 140,
+      "votes": 143,
       "position": 1
     },
     {
       "playername": "Fargram",
-      "votes": 127,
+      "votes": 129,
       "position": 2
     },
     {
       "playername": "TigarCRO",
-      "votes": 83,
+      "votes": 84,
       "position": 3
     },
     {
       "playername": "Geer2",
-      "votes": 61,
+      "votes": 62,
       "position": 4
     },
     {
       "playername": "Hotte",
-      "votes": 36,
+      "votes": 37,
       "position": 5
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "playername": "outlander",
-      "votes": 17,
+      "votes": 18,
       "position": 9
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "playername": "Rexiper",
-      "votes": 9,
+      "votes": 10,
       "position": 12
     },
     {
@@ -87,42 +87,42 @@
       "position": 17
     },
     {
-      "playername": "Punisher",
+      "playername": "MV_DieTigerEnte",
       "votes": 2,
       "position": 18
     },
     {
-      "playername": ".MilchTanne",
-      "votes": 1,
+      "playername": "Punisher",
+      "votes": 2,
       "position": 19
     },
     {
-      "playername": "Altair",
+      "playername": ".MilchTanne",
       "votes": 1,
       "position": 20
     },
     {
-      "playername": "AnderHRO",
+      "playername": "Altair",
       "votes": 1,
       "position": 21
     },
     {
-      "playername": "Arty1215",
+      "playername": "AnderHRO",
       "votes": 1,
       "position": 22
     },
     {
-      "playername": "LizRed",
+      "playername": "Arty1215",
       "votes": 1,
       "position": 23
     },
     {
-      "playername": "MineTreas",
+      "playername": "LizRed",
       "votes": 1,
       "position": 24
     },
     {
-      "playername": "MV_DieTigerEnte",
+      "playername": "MineTreas",
       "votes": 1,
       "position": 25
     },
@@ -155,5 +155,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-27T15:37:36.602327+01:00"
+  "last_updated": "2026-10-27T20:38:05.883934+01:00"
 }
