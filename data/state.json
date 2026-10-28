@@ -3,12 +3,12 @@
   "current_snapshot": [
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 149,
+      "votes": 152,
       "position": 1
     },
     {
       "playername": "Fargram",
-      "votes": 137,
+      "votes": 139,
       "position": 2
     },
     {
@@ -18,12 +18,12 @@
     },
     {
       "playername": "Geer2",
-      "votes": 64,
+      "votes": 65,
       "position": 4
     },
     {
       "playername": "Hotte",
-      "votes": 37,
+      "votes": 38,
       "position": 5
     },
     {
@@ -58,12 +58,12 @@
     },
     {
       "playername": "Rexiper",
-      "votes": 10,
+      "votes": 11,
       "position": 12
     },
     {
       "playername": "Abusarah",
-      "votes": 8,
+      "votes": 10,
       "position": 13
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "playername": "MV_DieTigerEnte",
-      "votes": 3,
+      "votes": 4,
       "position": 15
     },
     {
@@ -155,5 +155,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-10-28T16:43:01.492558+01:00"
+  "last_updated": "2026-10-28T21:35:28.188708+01:00"
 }
