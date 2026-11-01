@@ -3,7 +3,7 @@
   "current_snapshot": [
     {
       "playername": "Fargram",
-      "votes": 2,
+      "votes": 5,
       "position": 1
     },
     {
@@ -12,9 +12,14 @@
       "position": 2
     },
     {
-      "playername": "TigarCRO",
+      "playername": "outlander",
       "votes": 1,
       "position": 3
+    },
+    {
+      "playername": "TigarCRO",
+      "votes": 1,
+      "position": 4
     }
   ],
   "current_message_ids": [
@@ -25,5 +30,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-01T09:05:54.361690+01:00"
+  "last_updated": "2026-11-01T16:01:36.335488+01:00"
 }
