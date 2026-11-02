@@ -3,38 +3,43 @@
   "current_snapshot": [
     {
       "playername": "Fargram",
-      "votes": 9,
+      "votes": 12,
       "position": 1
+    },
+    {
+      "playername": "TigarCRO",
+      "votes": 3,
+      "position": 2
     },
     {
       "playername": "Abusarah",
       "votes": 2,
-      "position": 2
+      "position": 3
     },
     {
       "playername": "MV_DieTigerEnte",
       "votes": 2,
-      "position": 3
-    },
-    {
-      "playername": "SLAYER (Turbo)",
-      "votes": 2,
       "position": 4
     },
     {
-      "playername": "TigarCRO",
+      "playername": "outlander",
       "votes": 2,
       "position": 5
     },
     {
-      "playername": "Hotte",
-      "votes": 1,
+      "playername": "SLAYER (Turbo)",
+      "votes": 2,
       "position": 6
     },
     {
-      "playername": "outlander",
+      "playername": "DARVIN",
       "votes": 1,
       "position": 7
+    },
+    {
+      "playername": "Hotte",
+      "votes": 1,
+      "position": 8
     }
   ],
   "current_message_ids": [
@@ -45,5 +50,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-02T03:24:54.110120+01:00"
+  "last_updated": "2026-11-02T10:48:56.160780+01:00"
 }
