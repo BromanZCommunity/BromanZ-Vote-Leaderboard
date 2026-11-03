@@ -3,31 +3,31 @@
   "current_snapshot": [
     {
       "playername": "Fargram",
-      "votes": 17,
+      "votes": 18,
       "position": 1
     },
     {
-      "playername": "MV_DieTigerEnte",
-      "votes": 4,
+      "playername": "outlander",
+      "votes": 5,
       "position": 2
     },
     {
-      "playername": "outlander",
+      "playername": "DARVIN",
       "votes": 4,
       "position": 3
     },
     {
-      "playername": "TigarCRO",
+      "playername": "MV_DieTigerEnte",
       "votes": 4,
       "position": 4
     },
     {
-      "playername": "Abusarah",
-      "votes": 3,
+      "playername": "TigarCRO",
+      "votes": 4,
       "position": 5
     },
     {
-      "playername": "DARVIN",
+      "playername": "Abusarah",
       "votes": 3,
       "position": 6
     },
@@ -50,5 +50,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-02T20:50:15.899743+01:00"
+  "last_updated": "2026-11-03T02:59:19.072098+01:00"
 }
