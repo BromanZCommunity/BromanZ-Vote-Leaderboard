@@ -8,17 +8,17 @@
     },
     {
       "playername": "outlander",
-      "votes": 17,
+      "votes": 19,
       "position": 2
     },
     {
       "playername": "DARVIN",
-      "votes": 14,
+      "votes": 15,
       "position": 3
     },
     {
       "playername": "TigarCRO",
-      "votes": 13,
+      "votes": 14,
       "position": 4
     },
     {
@@ -27,13 +27,13 @@
       "position": 5
     },
     {
-      "playername": "MV_DieTigerEnte",
+      "playername": "Geer2",
       "votes": 8,
       "position": 6
     },
     {
-      "playername": "Geer2",
-      "votes": 7,
+      "playername": "MV_DieTigerEnte",
+      "votes": 8,
       "position": 7
     },
     {
@@ -75,5 +75,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-07T03:59:48.428473+01:00"
+  "last_updated": "2026-11-07T10:54:08.311784+01:00"
 }
