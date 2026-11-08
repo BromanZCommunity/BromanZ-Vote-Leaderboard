@@ -23,7 +23,7 @@
     },
     {
       "playername": "Abusarah",
-      "votes": 11,
+      "votes": 13,
       "position": 5
     },
     {
@@ -32,12 +32,12 @@
       "position": 6
     },
     {
-      "playername": "MV_DieTigerEnte",
-      "votes": 8,
+      "playername": "SLAYER (Turbo)",
+      "votes": 9,
       "position": 7
     },
     {
-      "playername": "SLAYER (Turbo)",
+      "playername": "MV_DieTigerEnte",
       "votes": 8,
       "position": 8
     },
@@ -90,5 +90,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-08T17:16:52.230963+01:00"
+  "last_updated": "2026-11-08T21:36:11.997657+01:00"
 }
