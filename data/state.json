@@ -13,7 +13,7 @@
     },
     {
       "playername": "DARVIN",
-      "votes": 19,
+      "votes": 20,
       "position": 3
     },
     {
@@ -62,22 +62,22 @@
       "position": 12
     },
     {
-      "playername": "76561199179258932",
-      "votes": 1,
+      "playername": "UncB",
+      "votes": 2,
       "position": 13
     },
     {
-      "playername": "Dragev",
+      "playername": "76561199179258932",
       "votes": 1,
       "position": 14
     },
     {
-      "playername": "Rexiper",
+      "playername": "Dragev",
       "votes": 1,
       "position": 15
     },
     {
-      "playername": "UncB",
+      "playername": "Rexiper",
       "votes": 1,
       "position": 16
     }
@@ -90,5 +90,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-09T00:59:22.974690+01:00"
+  "last_updated": "2026-11-09T06:58:42.562825+01:00"
 }
