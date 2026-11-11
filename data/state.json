@@ -18,7 +18,7 @@
     },
     {
       "playername": "TigarCRO",
-      "votes": 23,
+      "votes": 24,
       "position": 4
     },
     {
@@ -37,13 +37,13 @@
       "position": 7
     },
     {
-      "playername": "Strigo",
+      "playername": "Acki",
       "votes": 10,
       "position": 8
     },
     {
-      "playername": "Acki",
-      "votes": 9,
+      "playername": "Strigo",
+      "votes": 10,
       "position": 9
     },
     {
@@ -95,5 +95,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-11T02:22:12.029222+01:00"
+  "last_updated": "2026-11-11T08:59:54.940673+01:00"
 }
