@@ -8,7 +8,7 @@
     },
     {
       "playername": "outlander",
-      "votes": 36,
+      "votes": 37,
       "position": 2
     },
     {
@@ -22,18 +22,18 @@
       "position": 4
     },
     {
-      "playername": "Abusarah",
-      "votes": 16,
+      "playername": "Geer2",
+      "votes": 17,
       "position": 5
     },
     {
-      "playername": "Geer2",
+      "playername": "Abusarah",
       "votes": 16,
       "position": 6
     },
     {
       "playername": "Strigo",
-      "votes": 14,
+      "votes": 16,
       "position": 7
     },
     {
@@ -100,5 +100,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-13T16:08:26.043349+01:00"
+  "last_updated": "2026-11-13T22:24:37.982764+01:00"
 }
