@@ -18,12 +18,12 @@
     },
     {
       "playername": "TigarCRO",
-      "votes": 29,
+      "votes": 30,
       "position": 4
     },
     {
       "playername": "Geer2",
-      "votes": 18,
+      "votes": 20,
       "position": 5
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 13,
+      "votes": 14,
       "position": 9
     },
     {
@@ -87,14 +87,24 @@
       "position": 17
     },
     {
-      "playername": "Peridus",
+      "playername": "Madviking",
       "votes": 1,
       "position": 18
     },
     {
-      "playername": "Rexiper",
+      "playername": "Peridus",
       "votes": 1,
       "position": 19
+    },
+    {
+      "playername": "Rexiper",
+      "votes": 1,
+      "position": 20
+    },
+    {
+      "playername": "stug",
+      "votes": 1,
+      "position": 21
     }
   ],
   "current_message_ids": [
@@ -105,5 +115,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-15T03:56:39.193242+01:00"
+  "last_updated": "2026-11-15T11:28:25.017415+01:00"
 }
