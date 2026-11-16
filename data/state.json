@@ -13,7 +13,7 @@
     },
     {
       "playername": "DARVIN",
-      "votes": 36,
+      "votes": 37,
       "position": 3
     },
     {
@@ -27,12 +27,12 @@
       "position": 5
     },
     {
-      "playername": "Abusarah",
-      "votes": 17,
+      "playername": "Strigo",
+      "votes": 18,
       "position": 6
     },
     {
-      "playername": "Strigo",
+      "playername": "Abusarah",
       "votes": 17,
       "position": 7
     },
@@ -115,5 +115,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-15T22:58:01.287774+01:00"
+  "last_updated": "2026-11-16T02:42:58.948032+01:00"
 }
