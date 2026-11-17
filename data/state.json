@@ -8,7 +8,7 @@
     },
     {
       "playername": "outlander",
-      "votes": 42,
+      "votes": 43,
       "position": 2
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "playername": "Strigo",
-      "votes": 18,
+      "votes": 19,
       "position": 6
     },
     {
@@ -115,5 +115,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-16T19:53:46.035108+01:00"
+  "last_updated": "2026-11-17T03:17:07.709217+01:00"
 }
