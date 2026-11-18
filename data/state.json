@@ -7,23 +7,23 @@
       "position": 1
     },
     {
-      "playername": "outlander",
-      "votes": 45,
+      "playername": "DARVIN",
+      "votes": 47,
       "position": 2
     },
     {
-      "playername": "DARVIN",
-      "votes": 44,
+      "playername": "outlander",
+      "votes": 46,
       "position": 3
     },
     {
       "playername": "TigarCRO",
-      "votes": 35,
+      "votes": 36,
       "position": 4
     },
     {
       "playername": "Strigo",
-      "votes": 23,
+      "votes": 25,
       "position": 5
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 16,
+      "votes": 17,
       "position": 9
     },
     {
@@ -87,24 +87,34 @@
       "position": 17
     },
     {
-      "playername": "gman0450",
+      "playername": "Bishop",
       "votes": 1,
       "position": 18
     },
     {
-      "playername": "Peridus",
+      "playername": "gman0450",
       "votes": 1,
       "position": 19
     },
     {
-      "playername": "Rexiper",
+      "playername": "Peridus",
       "votes": 1,
       "position": 20
     },
     {
-      "playername": "stug",
+      "playername": "Rexiper",
       "votes": 1,
       "position": 21
+    },
+    {
+      "playername": "STING",
+      "votes": 1,
+      "position": 22
+    },
+    {
+      "playername": "stug",
+      "votes": 1,
+      "position": 23
     }
   ],
   "current_message_ids": [
@@ -115,5 +125,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-18T10:43:08.705884+01:00"
+  "last_updated": "2026-11-18T19:25:41.499766+01:00"
 }
