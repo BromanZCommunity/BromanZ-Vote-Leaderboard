@@ -13,7 +13,7 @@
     },
     {
       "playername": "DARVIN",
-      "votes": 42,
+      "votes": 44,
       "position": 3
     },
     {
@@ -22,13 +22,13 @@
       "position": 4
     },
     {
-      "playername": "Geer2",
-      "votes": 22,
+      "playername": "Strigo",
+      "votes": 23,
       "position": 5
     },
     {
-      "playername": "Strigo",
-      "votes": 21,
+      "playername": "Geer2",
+      "votes": 22,
       "position": 6
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "playername": "SLAYER (Turbo)",
-      "votes": 15,
+      "votes": 16,
       "position": 9
     },
     {
@@ -115,5 +115,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-18T02:50:57.242531+01:00"
+  "last_updated": "2026-11-18T10:43:08.705884+01:00"
 }
