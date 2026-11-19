@@ -8,7 +8,7 @@
     },
     {
       "playername": "DARVIN",
-      "votes": 47,
+      "votes": 49,
       "position": 2
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "playername": "Strigo",
-      "votes": 25,
+      "votes": 26,
       "position": 5
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "playername": "Madviking",
-      "votes": 3,
+      "votes": 4,
       "position": 13
     },
     {
@@ -77,17 +77,17 @@
       "position": 15
     },
     {
-      "playername": "Hotte",
+      "playername": "Bishop",
       "votes": 2,
       "position": 16
     },
     {
-      "playername": "76561199179258932",
-      "votes": 1,
+      "playername": "Hotte",
+      "votes": 2,
       "position": 17
     },
     {
-      "playername": "Bishop",
+      "playername": "76561199179258932",
       "votes": 1,
       "position": 18
     },
@@ -125,5 +125,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-18T19:25:41.499766+01:00"
+  "last_updated": "2026-11-19T01:38:33.466792+01:00"
 }
