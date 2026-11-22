@@ -3,7 +3,7 @@
   "current_snapshot": [
     {
       "playername": "DARVIN",
-      "votes": 64,
+      "votes": 67,
       "position": 1
     },
     {
@@ -23,12 +23,12 @@
     },
     {
       "playername": "Strigo",
-      "votes": 34,
+      "votes": 37,
       "position": 5
     },
     {
       "playername": "Acki",
-      "votes": 25,
+      "votes": 26,
       "position": 6
     },
     {
@@ -47,13 +47,13 @@
       "position": 9
     },
     {
-      "playername": "MV_DieTigerEnte",
+      "playername": "MOMA",
       "votes": 8,
       "position": 10
     },
     {
-      "playername": "MOMA",
-      "votes": 6,
+      "playername": "MV_DieTigerEnte",
+      "votes": 8,
       "position": 11
     },
     {
@@ -63,12 +63,12 @@
     },
     {
       "playername": "Dragev",
-      "votes": 4,
+      "votes": 5,
       "position": 13
     },
     {
       "playername": "Madviking",
-      "votes": 4,
+      "votes": 5,
       "position": 14
     },
     {
@@ -130,5 +130,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-22T10:43:31.363879+01:00"
+  "last_updated": "2026-11-22T18:25:41.785999+01:00"
 }
