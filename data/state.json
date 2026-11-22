@@ -120,6 +120,11 @@
       "playername": "stug",
       "votes": 1,
       "position": 24
+    },
+    {
+      "playername": "Viking D. Mike",
+      "votes": 1,
+      "position": 25
     }
   ],
   "current_message_ids": [
@@ -130,5 +135,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-22T18:25:41.785999+01:00"
+  "last_updated": "2026-11-22T23:40:26.030369+01:00"
 }
