@@ -3,7 +3,7 @@
   "current_snapshot": [
     {
       "playername": "DARVIN",
-      "votes": 63,
+      "votes": 64,
       "position": 1
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "playername": "outlander",
-      "votes": 50,
+      "votes": 51,
       "position": 3
     },
     {
       "playername": "TigarCRO",
-      "votes": 40,
+      "votes": 41,
       "position": 4
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "playername": "Acki",
-      "votes": 24,
+      "votes": 25,
       "position": 6
     },
     {
-      "playername": "Geer2",
+      "playername": "Abusarah",
       "votes": 22,
       "position": 7
     },
     {
-      "playername": "Abusarah",
-      "votes": 21,
+      "playername": "Geer2",
+      "votes": 22,
       "position": 8
     },
     {
@@ -92,29 +92,34 @@
       "position": 18
     },
     {
-      "playername": "gman0450",
+      "playername": "Eagle",
       "votes": 1,
       "position": 19
     },
     {
-      "playername": "Peridus",
+      "playername": "gman0450",
       "votes": 1,
       "position": 20
     },
     {
-      "playername": "Rexiper",
+      "playername": "Peridus",
       "votes": 1,
       "position": 21
     },
     {
-      "playername": "STING",
+      "playername": "Rexiper",
       "votes": 1,
       "position": 22
     },
     {
-      "playername": "stug",
+      "playername": "STING",
       "votes": 1,
       "position": 23
+    },
+    {
+      "playername": "stug",
+      "votes": 1,
+      "position": 24
     }
   ],
   "current_message_ids": [
@@ -125,5 +130,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-22T03:09:02.274266+01:00"
+  "last_updated": "2026-11-22T10:43:31.363879+01:00"
 }
