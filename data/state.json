@@ -28,17 +28,17 @@
     },
     {
       "playername": "Acki",
-      "votes": 28,
+      "votes": 30,
       "position": 6
     },
     {
-      "playername": "SLAYER (Turbo)",
+      "playername": "Abusarah",
       "votes": 27,
       "position": 7
     },
     {
-      "playername": "Abusarah",
-      "votes": 26,
+      "playername": "SLAYER (Turbo)",
+      "votes": 27,
       "position": 8
     },
     {
@@ -140,5 +140,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-27T05:57:24.966663+01:00"
+  "last_updated": "2026-11-27T15:48:46.141319+01:00"
 }
