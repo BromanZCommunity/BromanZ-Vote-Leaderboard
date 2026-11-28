@@ -8,7 +8,7 @@
     },
     {
       "playername": "outlander",
-      "votes": 55,
+      "votes": 56,
       "position": 2
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "playername": "Strigo",
-      "votes": 44,
+      "votes": 45,
       "position": 4
     },
     {
@@ -28,16 +28,16 @@
     },
     {
       "playername": "Acki",
-      "votes": 30,
+      "votes": 32,
       "position": 6
     },
     {
-      "playername": "Abusarah",
-      "votes": 28,
+      "playername": "SLAYER (Turbo)",
+      "votes": 29,
       "position": 7
     },
     {
-      "playername": "SLAYER (Turbo)",
+      "playername": "Abusarah",
       "votes": 28,
       "position": 8
     },
@@ -48,7 +48,7 @@
     },
     {
       "playername": "MOMA",
-      "votes": 9,
+      "votes": 10,
       "position": 10
     },
     {
@@ -140,5 +140,5 @@
   ],
   "current_message_id": "1551695390657749144",
   "previous_message_id": "1551704906409447445",
-  "last_updated": "2026-11-28T05:42:25.468849+01:00"
+  "last_updated": "2026-11-28T14:41:15.751976+01:00"
 }
